@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "dotenv": "^5.0.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "twilio": "^3.13.1"
   },
   "devDependencies": {},
